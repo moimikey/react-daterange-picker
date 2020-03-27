@@ -89,7 +89,7 @@
     "gulp-ext-replace": "^0.1.0",
     "gulp-gh-pages": "https://github.com/tekd/gulp-gh-pages#update-dependency",
     "gulp-load-plugins": "~1.0.0",
-    "gulp-sass": "^2.3.2",
+    "gulp-sass": "^4.0.2",
     "gulp-sourcemaps": "^1.12.1",
     "gulp-util": "^3.0.7",
     "gulp-watch": "^1.1.0",
